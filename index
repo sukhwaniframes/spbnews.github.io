@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shree Paramanand Bhandar</title>
+	
+</head>
+<body>
+<div style="background-color: red;height: 70px;padding-left: 50px;padding-right: 50px;">
+	<marquee><h2 style="color: #ffffff; vertical-align: middle; margin-bottom: auto;margin-top: 20px; ">This is created by Hitesh Sukhwani</h2></marquee>
+</div>
+<div>
+	<center>
+		<img src="assets/img/a01.jpg" style="width: 100%;">
+	<h3 style="margin-top: 50px;">On the occasion of Guru purnima,Satsang and Aarti will be conducted Online on Following Apps</h3>
+	<br><br>
+	<img width="80px" height="70px" src="assets/img/zoom.png">
+	
+	<img width="80px" height="50px" style="margin-left: 40px; padding-bottom: 20px;" src="assets/img/ytb.png">
+	<img width="80px" height="80px" style="margin-left: 40px;" src="assets/img/gm.png"><br><br>
+<span style="width: 80px;">	 <a style="text-decoration: none; padding-bottom: 5px;padding-top: 5px;padding-left: 30px;padding-right: 30px; border-radius: 30px; color:#ffffff;background-color:#5FA0FC " role="button" href="https://sukhwaniframes.github.io/">Join</a>
+	 <span style="width: 80px;"></span>
+	 <a style="text-decoration: none; margin-left: 40px; padding-bottom: 5px;padding-top: 5px;padding-left: 30px;padding-right: 30px; border-radius: 30px; color:#ffffff;background-color:#c4302b " role="button" href="https://sukhwaniframes.github.io/">Join</a>
+	</span>
+	<span style="width: 80px;">	 <a style="text-decoration: none; margin-left: 40px; padding-bottom: 5px;padding-top: 5px;padding-left: 30px;padding-right: 30px; border-radius: 30px; color:#ffffff;background-color:#55A384 " role="button" href="https://sukhwaniframes.github.io/">Join</a></span>
+
+	</center>
+</div>
+</body>
+</html>
